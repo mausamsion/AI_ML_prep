@@ -4,7 +4,7 @@
 
 #### **MODULE 1: FOUNDATIONAL MATHEMATICS AND STATISTICS**
 
-- **Sub-module 1.1: Linear Algebra**    
+- **Sub-module 1.1: Linear Algebra**
     - Vectors and Matrices: Definitions, types, and basic operations (addition, subtraction, scalar multiplication, matrix multiplication).
     - Systems of Linear Equations: Gaussian elimination, matrix inversion.
     - Vector Spaces and Subspaces: Linear independence, basis, and dimension.
@@ -12,12 +12,14 @@
     - Matrix Decompositions: Singular Value Decomposition (SVD), Principal Component Analysis (PCA) - mathematical foundation.
     - Norms and Distances: Vector norms (L1, L2, Lp, Frobenius), matrix norms.
     - Geometric Transformations: Linear transformations, rotations, scaling, translations represented as matrices.
+
 - **Sub-module 1.2: Calculus**
     - Functions of Single and Multiple Variables: Limits, continuity, differentiability.
     - Differential Calculus: Derivatives, partial derivatives, gradients, chain rule.
     - Integral Calculus: Definite and indefinite integrals, multiple integrals.
     - Optimization: Finding maxima and minima, Lagrange multipliers, gradient descent (mathematical understanding).
     - Convex Functions and Convex Optimization: Properties of convex sets and functions, basic concepts.
+
 - **Sub-module 1.3: Probability and Statistics**
     - Probability Theory: Sample spaces, events, probability axioms, conditional probability, Bayes' theorem.
     - Random Variables: Discrete and continuous random variables, probability distributions (Bernoulli, Binomial, Poisson, Uniform, Normal, Exponential, etc.).
